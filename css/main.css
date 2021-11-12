@@ -9,3 +9,8 @@
     text-transform: uppercase;
     font-style: italic;
 }
+
+#bg{
+    height: 50px;
+    background: gray;
+}
