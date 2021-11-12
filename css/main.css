@@ -1,3 +1,11 @@
-#hello{
+#hello {
     color: green;
+}
+
+.title {
+    font-size: 25px;
+    text-align: center;
+    color: red;
+    text-transform: uppercase;
+    font-style: italic;
 }
